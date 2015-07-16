@@ -4,7 +4,6 @@
 // @include     http://agar.io/*
 // @version     3.55
 // @grant       none
-// @author      http://www.twitch.tv/apostolique and Qwalifyd
 // ==/UserScript==
 
 var aposBotVersion = QwalifydEDIT;
