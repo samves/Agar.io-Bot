@@ -7,7 +7,7 @@
 // @author      http://www.twitch.tv/apostolique and Qwalifyd
 // ==/UserScript==
 
-var aposBotVersion = 3.55;
+var aposBotVersion = QwalifydEDIT;
 
 //TODO: Team mode
 //      Detect when people are merging
